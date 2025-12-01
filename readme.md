@@ -2,7 +2,7 @@ Shopify Live Globe 2025 - BFCM
 
 https://bfcm.shopify.com/
 
-All the () are the numbers in letters of Phoneword, AKA NATO Phonetic Code
+All the () are the numbers in letters of Phoneword, AKA NATO Phonetic Code if there is one
 
 🛑 Note: This will only work on a computer/laptop
 
