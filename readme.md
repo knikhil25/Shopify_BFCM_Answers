@@ -4,6 +4,8 @@ https://bfcm.shopify.com/
 
 All the () are the numbers in letters of Phoneword, AKA NATO Phonetic Code
 
+🛑 Note: This will only work on a computer/laptop
+
 - Step 1: Find the first code: On the poster board, locate the post-it note and enter the code 7467 (Shop) into the calculator keypad.
 - Step 2: Turn Off the lights. 
 - Step 3: Reveal the second code: A new post-it note appears on the table. Enter the code 4569 (Glow) into the calculator keypad.
