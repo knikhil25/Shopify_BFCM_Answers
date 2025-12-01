@@ -14,5 +14,5 @@ All the () are the numbers in letters of Phoneword, AKA NATO Phonetic Code
 - Step 8: Enter 2758 into the calculator keypad.
 - Step 9: Click on the computor screen to enter the computer. Double click on careers.txt. Look for the code 7746
 - Step 10: Exit the computer. Enter 7746 Into the calculator keypad.
-- 
-These are the FIVE hidden surprises!
+  
+These are the SIX hidden surprises!
